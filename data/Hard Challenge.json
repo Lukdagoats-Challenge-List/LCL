@@ -1,0 +1,18 @@
+{
+    "id": 128086487,
+    "name": "Hard Challenge",
+    "author": "Lukdagoat12",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Lukdagoat12",
+    "verification": "https://www.youtube.com/watch?v=PlMnaVE2__A",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
